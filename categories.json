@@ -1,0 +1,14 @@
+{
+    "pdf": "Documents",
+    "docx": "Documents",
+    "txt": "Documents",
+    "zip": "Archives",
+    "png": "Images",
+    "jpg": "Images",
+    "webp": "Images",
+    "mp4": "Videos",
+    "msi": "Applications",
+    "exe": "Applications",
+    "other": "Other"
+  }
+  
