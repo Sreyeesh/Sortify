@@ -1,4 +1,4 @@
-Here’s a professional README for the current state of your **Sortify** project:
+
 
 ---
 
